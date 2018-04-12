@@ -1,4 +1,6 @@
 # LIFX Android SDK - the LIFX SDK for Android
+[![Backers on Open Collective](https://opencollective.com/lifx-sdk-android/backers/badge.svg)](#backers)
+ [![Sponsors on Open Collective](https://opencollective.com/lifx-sdk-android/sponsors/badge.svg)](#sponsors) 
 
 The SDK currently supports Android only. Java support is coming soon.
 
@@ -95,3 +97,33 @@ A Tagged Light Collection (`LFXTaggedLightCollection`) represents the lights con
 ### HSBK Color
 
 LIFX makes use of a "HSBK" color representation. The "HSB" part refers to the [HSB](http://en.wikipedia.org/wiki/HSB_color_space) color space, and the "K" part refers to the [Color Temperature](http://en.wikipedia.org/wiki/Color_temperature) of the white point, in Kelvin. At full saturation, HSBK colors will correspond to the edge of the realisable color gamut, and at zero saturation, HSBK colors will correspond to the color described by the Color Temperature in the K component.
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="graphs/contributors"><img src="https://opencollective.com/lifx-sdk-android/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/lifx-sdk-android#backer)]
+
+<a href="https://opencollective.com/lifx-sdk-android#backers" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/lifx-sdk-android#sponsor)]
+
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/0/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/1/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/2/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/3/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/4/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/5/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/6/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/7/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/8/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/lifx-sdk-android/sponsor/9/website" target="_blank"><img src="https://opencollective.com/lifx-sdk-android/sponsor/9/avatar.svg"></a>
+
+
